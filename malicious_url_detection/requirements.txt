@@ -4,3 +4,8 @@ matplotlib
 seaborn
 scikit-learn
 wordcloud
+transformers 
+datasets 
+scikit-learn 
+pandas 
+torch
